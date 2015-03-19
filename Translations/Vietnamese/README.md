@@ -6,7 +6,7 @@
 
 ## Danh mục
 
-  1. [Câu hỏi tổng quát](#user-content-câu-hỏi-tổng-quát)
+  1. [Câu hỏi tổng quát](#cau-hoi-tong-quat)
 
 ## Bắt đầu nhé
 
@@ -14,4 +14,4 @@
   1. [Làm như thế nào để đóng góp câu hỏi ?](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
   1. [Bản quyền](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
 
-#### Câu hỏi tổng quát:
+#### <a name='cau-hoi-tong-quat'>Câu hỏi tổng quát</a>:
