@@ -4,7 +4,7 @@
 
 **Chú ý:** Hãy luôn nhớ rằng, ở đây có rất nhiều câu hỏi mở, những câu hỏi này có thể dẫn tới một cuộc nói chuyện rất thú vị và cởi mở, một cuộc nói chuyện như vậy sẽ đem đến cho bạn nhiều thông tin hơn là một câu trả lời cô đọng.
 
-## Danh mục
+## <a name='toc'>Danh mục</a>
 
   1. [Câu hỏi tổng quát](#cau-hoi-tong-quat)
 
@@ -14,4 +14,4 @@
   1. [Làm như thế nào để đóng góp câu hỏi ?](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/CONTRIBUTING.md)
   1. [Bản quyền](https://github.com/h5bp/Front-end-Developer-Interview-Questions/blob/master/LICENSE.md)
 
-#### <a name='cau-hoi-tong-quat'>Câu hỏi tổng quát</a>:
+####[[⬆]](#toc) <a name='cau-hoi-tong-quat'>Câu hỏi tổng quát:</a>
