@@ -6,7 +6,7 @@
 
 ## Danh mục
 
-  1. [Câu hỏi tổng quát](#cau-hoi-tong-quat)
+  1. [Câu hỏi tổng quát](#user-content-câu-hỏi-tổng-quát)
 
 ## Bắt đầu nhé
 
