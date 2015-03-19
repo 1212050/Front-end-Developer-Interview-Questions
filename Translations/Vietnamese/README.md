@@ -7,6 +7,7 @@
 ## <a name='toc'>Danh mục</a>
 
   1. [Câu hỏi tổng quát](#cau-hoi-tong-quat)
+  1. [Câu hỏi về HTML](#cau-hoi-ve-html)
 
 ## Bắt đầu nhé
 
@@ -16,7 +17,7 @@
 
 ####<a name='cau-hoi-tong-quat'>Câu hỏi tổng quát:</a>
 
-* Bạn học được gì vào hôm qua hoặc tuần vừa rồi?
+* Bạn có muốn chia sẻ về những gì bạn học được hôm qua, hoặc tuần rồi không?
 * Điều gì khi Code làm bạn thấy phân khích hoặc thích thú?
 * Gần đây bạn có đối diện với thách thức nào không ?
   * và bạn học được gì từ nó?
@@ -39,3 +40,18 @@
   * Bạn làm sao để tánh FOUC?
 * Explain what ARIA and screenreaders are, and how to make a website accessible.
 * Bạn có thích sử dụng các hiệu ứng bằng CSS không ? Bạn có thể nói về một vài ưu, khuyết điểm của việc sử dụng hiệu ứng CSS so với hiệu ứng Javascript không ?.
+
+####<a name='cau-hoi-ve-html'>Câu hỏi về HTML:</a>
+
+* Tác dụng của `doctype` là gì?
+* What's the difference between standards mode and quirks mode?
+* Sự khác biết giữa HTML và XHTML là gì?
+* Có bao giờ bạn gặp rắc rối khi tạo một trang kiểu `application/xhtml+xml` chưa?
+* Bạn sẽ làm gì để tạo một trang đa ngôn ngữ?
+* What kind of things must you be wary of when design or developing for multilingual sites?
+* Thuộc tính `data-` dùng tốt cho mục đích gì?
+* Consider HTML5 as an open web platform. What are the building blocks of HTML5?
+* Bạn hãy giải thích sự khác biệt giữa `cookie`, `sessionStorage` và `localStorage`.
+* Hãy giải thích sự khác biệt giữa `<script>`, `<script async>` và `<script defer>`.
+* Tại sao đặt thẻ `<link>` ở giữa `<head></head>` và đặt `<script>` ở trước thẻ `</body>` lại tốt? 
+  * Bạn có biết ngoại lệ nào không?
